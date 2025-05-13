@@ -1,0 +1,11 @@
+[0.010s] Invoking command in '/home/zjkj/unitreeGO2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/zjkj/unitreeGO2_ws/build/go2_twist_bridge -- -j16 -l16
+[0.042s] [35m[1mScanning dependencies of target twist_bridge[0m
+[0.064s] [ 50%] [32mBuilding CXX object CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o[0m
+[0.999s] [01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:[m[K In member function ‘[01m[Kvoid TwistBridge::twist_cb(geometry_msgs::msg::Twist_<std::allocator<void> >::SharedPtr)[m[K’:
+[0.999s] [01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:39:21:[m[K [01;31m[Kerror: [m[K‘[01m[Kusing Request = struct unitree_api::msg::Request_<std::allocator<void> >[m[K’ {aka ‘[01m[Kstruct unitree_api::msg::Request_<std::allocator<void> >[m[K’} has no member named ‘[01m[Kmode[m[K’
+[0.999s]    39 |         request_msg.[01;31m[Kmode[m[K = 6; // 例如，设置模式为vel_mode
+[0.999s]       |                     [01;31m[K^~~~[m[K
+[2.186s] make[2]: *** [CMakeFiles/twist_bridge.dir/build.make:63：CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o] 错误 1
+[2.186s] make[1]: *** [CMakeFiles/Makefile2:78：CMakeFiles/twist_bridge.dir/all] 错误 2
+[2.186s] make: *** [Makefile:141：all] 错误 2
+[2.188s] Invoked command in '/home/zjkj/unitreeGO2_ws/build/go2_twist_bridge' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/zjkj/unitreeGO2_ws/build/go2_twist_bridge -- -j16 -l16

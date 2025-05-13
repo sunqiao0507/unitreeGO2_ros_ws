@@ -1,0 +1,24 @@
+[0.384s] Invoking command in '/home/zjkj/unitreeGO2_ws/src/base/go2_teleop_ctrl_keyboard': PYTHONPATH=/home/zjkj/unitreeGO2_ws/build/go2_teleop_ctrl_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/go2_teleop_ctrl_keyboard build --build-base /home/zjkj/unitreeGO2_ws/build/go2_teleop_ctrl_keyboard/build install --record /home/zjkj/unitreeGO2_ws/build/go2_teleop_ctrl_keyboard/install.log --install-scripts $base/lib/go2_teleop_ctrl_keyboard --single-version-externally-managed install_data
+[0.503s] running egg_info
+[0.503s] writing ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/PKG-INFO
+[0.503s] writing dependency_links to ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/dependency_links.txt
+[0.503s] writing entry points to ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/entry_points.txt
+[0.503s] writing requirements to ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/requires.txt
+[0.503s] writing top-level names to ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/top_level.txt
+[0.526s] reading manifest file '../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/SOURCES.txt'
+[0.526s] writing manifest file '../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info/SOURCES.txt'
+[0.526s] running build
+[0.526s] running build_py
+[0.526s] copying go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.py -> /home/zjkj/unitreeGO2_ws/build/go2_teleop_ctrl_keyboard/build/lib/go2_teleop_ctrl_keyboard
+[0.527s] running install
+[0.527s] running install_lib
+[0.527s] copying /home/zjkj/unitreeGO2_ws/build/go2_teleop_ctrl_keyboard/build/lib/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.py -> /home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard
+[0.528s] byte-compiling /home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.py to go2_teleop_ctrl_keyboard.cpython-38.pyc
+[0.529s] running install_data
+[0.529s] running install_egg_info
+[0.530s] removing '/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard-0.0.0-py3.8.egg-info' (and everything under it)
+[0.530s] Copying ../../../build/go2_teleop_ctrl_keyboard/go2_teleop_ctrl_keyboard.egg-info to /home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages/go2_teleop_ctrl_keyboard-0.0.0-py3.8.egg-info
+[0.531s] running install_scripts
+[0.543s] Installing go2_teleop_ctrl_keyboard script to /home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard/lib/go2_teleop_ctrl_keyboard
+[0.544s] writing list of installed files to '/home/zjkj/unitreeGO2_ws/build/go2_teleop_ctrl_keyboard/install.log'
+[0.557s] Invoked command in '/home/zjkj/unitreeGO2_ws/src/base/go2_teleop_ctrl_keyboard' returned '0': PYTHONPATH=/home/zjkj/unitreeGO2_ws/build/go2_teleop_ctrl_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/go2_teleop_ctrl_keyboard build --build-base /home/zjkj/unitreeGO2_ws/build/go2_teleop_ctrl_keyboard/build install --record /home/zjkj/unitreeGO2_ws/build/go2_teleop_ctrl_keyboard/install.log --install-scripts $base/lib/go2_teleop_ctrl_keyboard --single-version-externally-managed install_data

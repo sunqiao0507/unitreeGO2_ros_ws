@@ -1,0 +1,78 @@
+[0.008s] Invoking command in '/home/zjkj/unitreeGO2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake /home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge -DCMAKE_INSTALL_PREFIX=/home/zjkj/unitreeGO2_ws/install/go2_twist_bridge
+[0.047s] -- The C compiler identification is GNU 9.4.0
+[0.077s] -- The CXX compiler identification is GNU 9.4.0
+[0.080s] -- Check for working C compiler: /usr/bin/cc
+[0.127s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.127s] -- Detecting C compiler ABI info
+[0.170s] -- Detecting C compiler ABI info - done
+[0.176s] -- Detecting C compile features
+[0.176s] -- Detecting C compile features - done
+[0.178s] -- Check for working CXX compiler: /usr/bin/c++
+[0.233s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.234s] -- Detecting CXX compiler ABI info
+[0.281s] -- Detecting CXX compiler ABI info - done
+[0.288s] -- Detecting CXX compile features
+[0.288s] -- Detecting CXX compile features - done
+[0.290s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.305s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.305s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.420s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.449s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.453s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.499s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.518s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.566s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.598s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.599s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.600s] -- Looking for pthread.h
+[0.649s] -- Looking for pthread.h - found
+[0.649s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.692s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[0.692s] -- Looking for pthread_create in pthreads
+[0.735s] -- Looking for pthread_create in pthreads - not found
+[0.735s] -- Looking for pthread_create in pthread
+[0.776s] -- Looking for pthread_create in pthread - found
+[0.777s] -- Found Threads: TRUE  
+[0.867s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.886s] -- Found unitree_api: 0.0.0 (/home/zjkj/unitree_ros2/cyclonedds_ws/install/unitree_api/share/unitree_api/cmake)
+[0.924s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.968s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.969s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.969s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/include>
+[0.969s] -- Configured cppcheck exclude dirs and/or files: 
+[0.969s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.969s] -- Configured cpplint exclude dirs and/or files: 
+[0.970s] -- Added test 'lint_cmake' to check CMake code style
+[0.970s] -- Added test 'uncrustify' to check C / C++ code style
+[0.970s] -- Configured uncrustify additional arguments: 
+[0.970s] -- Added test 'xmllint' to check XML markup files
+[0.972s] -- Configuring done
+[0.976s] -- Generating done
+[0.979s] -- Build files have been written to: /home/zjkj/unitreeGO2_ws/build/go2_twist_bridge
+[0.987s] Invoked command in '/home/zjkj/unitreeGO2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake /home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge -DCMAKE_INSTALL_PREFIX=/home/zjkj/unitreeGO2_ws/install/go2_twist_bridge
+[0.987s] Invoking command in '/home/zjkj/unitreeGO2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/zjkj/unitreeGO2_ws/build/go2_twist_bridge -- -j16 -l16
+[1.020s] [35m[1mScanning dependencies of target twist_bridge[0m
+[1.030s] [ 50%] [32mBuilding CXX object CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o[0m
+[1.049s] [100%] [32m[1mLinking CXX executable twist_bridge[0m
+[1.084s] [100%] Built target twist_bridge
+[1.092s] Invoked command in '/home/zjkj/unitreeGO2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/zjkj/unitreeGO2_ws/build/go2_twist_bridge -- -j16 -l16
+[1.099s] Invoking command in '/home/zjkj/unitreeGO2_ws/build/go2_twist_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/zjkj/unitreeGO2_ws/build/go2_twist_bridge
+[1.104s] -- Install configuration: ""
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge
+[1.104s] -- Set runtime path of "/home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/lib/go2_twist_bridge/twist_bridge" to ""
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/ament_index/resource_index/package_run_dependencies/go2_twist_bridge
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/ament_index/resource_index/parent_prefix_path/go2_twist_bridge
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.sh
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/ament_prefix_path.dsv
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.sh
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/environment/path.dsv
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.bash
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.sh
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.zsh
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/local_setup.dsv
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.dsv
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/ament_index/resource_index/packages/go2_twist_bridge
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig.cmake
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/cmake/go2_twist_bridgeConfig-version.cmake
+[1.104s] -- Installing: /home/zjkj/unitreeGO2_ws/install/go2_twist_bridge/share/go2_twist_bridge/package.xml
+[1.106s] Invoked command in '/home/zjkj/unitreeGO2_ws/build/go2_twist_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/zjkj/unitreeGO2_ws/build/go2_twist_bridge

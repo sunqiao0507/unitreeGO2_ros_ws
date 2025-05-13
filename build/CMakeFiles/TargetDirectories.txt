@@ -1,0 +1,10 @@
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/install/local.dir
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/install.dir
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/list_install_components.dir
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/rebuild_cache.dir
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/edit_cache.dir
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/test.dir
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/install/strip.dir
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/twist_bridge.dir
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/go2_twist_bridge_py_uninstall.dir
+/home/zjkj/unitreeGO2_ws/build/CMakeFiles/uninstall.dir

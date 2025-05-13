@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/zjkj/unitree_ros2/cyclonedds_ws/install/unitree_hg/include/**",
+                "/home/zjkj/unitree_ros2/cyclonedds_ws/install/unitree_go/include/**",
+                "/home/zjkj/unitree_ros2/cyclonedds_ws/install/unitree_api/include/**",
+                "/home/zjkj/unitree_ros2/cyclonedds_ws/install/rmw_cyclonedds_cpp/include/**",
+                "/opt/ros/foxy/include/**",
+                "/home/zjkj/unitreeGO2_ws/src/base/go2_description/include/**",
+                "/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/include/**",
+                "/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge_py/include/**",
+                "/usr/include/**",
+                "/opt/ros/foxy/include",
+                "/home/zjkj/unitree_ros2/cyclonedds_ws/install/unitree_api/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

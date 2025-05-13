@@ -1,0 +1,24 @@
+[01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:[m[K In member function ‘[01m[Kvoid TwistBridge::twist_cb(geometry_msgs::msg::Twist_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:33:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ktwist[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+   33 |     void twist_cb([01;35m[Kconst geometry_msgs::msg::Twist::SharedPtr twist[m[K){
+      |                   [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~[m[K
+[01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:45:33:[m[K [01;31m[Kerror: [m[K‘[01m[KMy_node[m[K’ was not declared in this scope
+   45 |   rclcpp::spin(std::make_shared<[01;31m[KMy_node[m[K>());
+      |                                 [01;31m[K^~~~~~~[m[K
+[01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:45:42:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kmake_shared<<expression error> >()[m[K’
+   45 |   rclcpp::spin(std::make_shared<My_node>([01;31m[K)[m[K);
+      |                                          [01;31m[K^[m[K
+In file included from [01m[K/usr/include/c++/9/memory:81[m[K,
+                 from [01m[K/opt/ros/foxy/include/rclcpp/rclcpp.hpp:144[m[K,
+                 from [01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:12[m[K:
+[01m[K/usr/include/c++/9/bits/shared_ptr.h:714:5:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Ktemplate<class _Tp, class ... _Args> std::shared_ptr<_Tp> std::make_shared(_Args&& ...)[m[K’
+  714 |     [01;36m[Kmake_shared[m[K(_Args&&... __args)
+      |     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/usr/include/c++/9/bits/shared_ptr.h:714:5:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+[01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:45:42:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   45 |   rclcpp::spin(std::make_shared<My_node>([01;31m[K)[m[K);
+      |                                          [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/twist_bridge.dir/build.make:63：CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:78：CMakeFiles/twist_bridge.dir/all] 错误 2
+make: *** [Makefile:141：all] 错误 2

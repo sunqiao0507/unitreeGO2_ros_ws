@@ -1,0 +1,7 @@
+[01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:[m[K In member function ‘[01m[Kvoid TwistBridge::twist_cb(geometry_msgs::msg::Twist_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/zjkj/unitreeGO2_ws/src/base/go2_twist_bridge/src/twist_bridge.cpp:39:21:[m[K [01;31m[Kerror: [m[K‘[01m[Kusing Request = struct unitree_api::msg::Request_<std::allocator<void> >[m[K’ {aka ‘[01m[Kstruct unitree_api::msg::Request_<std::allocator<void> >[m[K’} has no member named ‘[01m[Kmode[m[K’
+   39 |         request_msg.[01;31m[Kmode[m[K = 6; // 例如，设置模式为vel_mode
+      |                     [01;31m[K^~~~[m[K
+make[2]: *** [CMakeFiles/twist_bridge.dir/build.make:63：CMakeFiles/twist_bridge.dir/src/twist_bridge.cpp.o] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:78：CMakeFiles/twist_bridge.dir/all] 错误 2
+make: *** [Makefile:141：all] 错误 2

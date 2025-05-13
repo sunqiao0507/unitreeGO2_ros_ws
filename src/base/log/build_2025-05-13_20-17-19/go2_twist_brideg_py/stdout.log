@@ -1,0 +1,38 @@
+running egg_info
+creating ../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info
+writing ../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info/PKG-INFO
+writing dependency_links to ../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info/dependency_links.txt
+writing entry points to ../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info/entry_points.txt
+writing requirements to ../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info/requires.txt
+writing top-level names to ../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info/top_level.txt
+writing manifest file '../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info/SOURCES.txt'
+reading manifest file '../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info/SOURCES.txt'
+writing manifest file '../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/build
+creating /home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/build/lib
+creating /home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/build/lib/go2_twist_brideg_py
+copying go2_twist_brideg_py/__init__.py -> /home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/build/lib/go2_twist_brideg_py
+copying go2_twist_brideg_py/sport_model.py -> /home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/build/lib/go2_twist_brideg_py
+copying go2_twist_brideg_py/twist_bridge.py -> /home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/build/lib/go2_twist_brideg_py
+running install
+running install_lib
+creating /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/lib/python3.8/site-packages/go2_twist_brideg_py
+copying /home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/build/lib/go2_twist_brideg_py/__init__.py -> /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/lib/python3.8/site-packages/go2_twist_brideg_py
+copying /home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/build/lib/go2_twist_brideg_py/sport_model.py -> /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/lib/python3.8/site-packages/go2_twist_brideg_py
+copying /home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/build/lib/go2_twist_brideg_py/twist_bridge.py -> /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/lib/python3.8/site-packages/go2_twist_brideg_py
+byte-compiling /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/lib/python3.8/site-packages/go2_twist_brideg_py/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/lib/python3.8/site-packages/go2_twist_brideg_py/sport_model.py to sport_model.cpython-38.pyc
+byte-compiling /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/lib/python3.8/site-packages/go2_twist_brideg_py/twist_bridge.py to twist_bridge.cpython-38.pyc
+running install_data
+creating /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/share/ament_index
+creating /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/share/ament_index/resource_index
+creating /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/share/ament_index/resource_index/packages
+copying resource/go2_twist_brideg_py -> /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/share/ament_index/resource_index/packages
+copying package.xml -> /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/share/go2_twist_brideg_py
+running install_egg_info
+Copying ../build/go2_twist_brideg_py/go2_twist_brideg_py.egg-info to /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/lib/python3.8/site-packages/go2_twist_brideg_py-0.0.0-py3.8.egg-info
+running install_scripts
+Installing twist_bridge script to /home/zjkj/unitreeGO2_ws/src/base/install/go2_twist_brideg_py/lib/go2_twist_brideg_py
+writing list of installed files to '/home/zjkj/unitreeGO2_ws/src/base/build/go2_twist_brideg_py/install.log'

@@ -1,0 +1,22 @@
+[0.008s] Invoking command in '/home/zjkj/unitreeGO2_ws/build/go2_driver_py': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/zjkj/unitreeGO2_ws/build/go2_driver_py -- -j16 -l16
+[0.043s] [100%] Built target driver
+[0.050s] Invoked command in '/home/zjkj/unitreeGO2_ws/build/go2_driver_py' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --build /home/zjkj/unitreeGO2_ws/build/go2_driver_py -- -j16 -l16
+[0.057s] Invoking command in '/home/zjkj/unitreeGO2_ws/build/go2_driver_py': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/zjkj/unitreeGO2_ws/build/go2_driver_py
+[0.061s] -- Install configuration: ""
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/lib/go2_driver_py/driver
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/ament_index/resource_index/package_run_dependencies/go2_driver_py
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/ament_index/resource_index/parent_prefix_path/go2_driver_py
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/environment/ament_prefix_path.sh
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/environment/ament_prefix_path.dsv
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/environment/path.sh
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/environment/path.dsv
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/local_setup.bash
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/local_setup.sh
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/local_setup.zsh
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/local_setup.dsv
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/package.dsv
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/ament_index/resource_index/packages/go2_driver_py
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/cmake/go2_driver_pyConfig.cmake
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/cmake/go2_driver_pyConfig-version.cmake
+[0.062s] -- Up-to-date: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/package.xml
+[0.063s] Invoked command in '/home/zjkj/unitreeGO2_ws/build/go2_driver_py' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zjkj/unitreeGO2_ws/install/go2_teleop_ctrl_keyboard:/opt/ros/foxy /usr/bin/cmake --install /home/zjkj/unitreeGO2_ws/build/go2_driver_py

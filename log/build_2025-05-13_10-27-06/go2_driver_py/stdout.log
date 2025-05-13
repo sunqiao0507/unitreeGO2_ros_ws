@@ -1,0 +1,60 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+-- Found unitree_go: 0.0.0 (/home/zjkj/unitree_ros2/cyclonedds_ws/install/unitree_go/share/unitree_go/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+-- Found FastRTPS: /opt/ros/foxy/include  
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/zjkj/unitreeGO2_ws/src/base/go2_driver_py/include>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zjkj/unitreeGO2_ws/build/go2_driver_py
+[35m[1mScanning dependencies of target driver[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/driver.dir/src/driver.cpp.o[0m
+[100%] [32m[1mLinking CXX executable driver[0m
+[100%] Built target driver
+-- Install configuration: ""
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/lib/go2_driver_py/driver
+-- Set runtime path of "/home/zjkj/unitreeGO2_ws/install/go2_driver_py/lib/go2_driver_py/driver" to ""
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/ament_index/resource_index/package_run_dependencies/go2_driver_py
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/ament_index/resource_index/parent_prefix_path/go2_driver_py
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/environment/ament_prefix_path.sh
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/environment/ament_prefix_path.dsv
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/environment/path.sh
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/environment/path.dsv
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/local_setup.bash
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/local_setup.sh
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/local_setup.zsh
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/local_setup.dsv
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/package.dsv
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/ament_index/resource_index/packages/go2_driver_py
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/cmake/go2_driver_pyConfig.cmake
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/cmake/go2_driver_pyConfig-version.cmake
+-- Installing: /home/zjkj/unitreeGO2_ws/install/go2_driver_py/share/go2_driver_py/package.xml
